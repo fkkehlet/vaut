@@ -1,0 +1,6 @@
+[[redirects]]
+    from = "https://vaut.netlify.app/*"
+    to = "https://vaut.io/:splat"
+    status = 301
+    force = true
+
